@@ -1,0 +1,5 @@
+c:\users\abid\documents\visual studio 2012\Projects\TMS_Project\TMS_Project\bin\TMS_Project.dll
+c:\users\abid\documents\visual studio 2012\Projects\TMS_Project\TMS_Project\bin\TMS_Project.pdb
+c:\users\abid\documents\visual studio 2012\Projects\TMS_Project\TMS_Project\obj\Debug\TMS_Project.csprojResolveAssemblyReference.cache
+c:\users\abid\documents\visual studio 2012\Projects\TMS_Project\TMS_Project\obj\Debug\TMS_Project.dll
+c:\users\abid\documents\visual studio 2012\Projects\TMS_Project\TMS_Project\obj\Debug\TMS_Project.pdb

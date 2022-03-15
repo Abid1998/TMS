@@ -1,0 +1,14 @@
+﻿body {
+    background-color:whitesmoke;
+}
+.container {
+    margin-top:20px;
+    
+}
+.jumbotron {
+    margin-top:10px;
+}
+#shadow {
+    -webkit-box-shadow: 1px 0px 5px -1px rgba(0,0,0,0.5);
+-moz-box-shadow: -1px 0px 2px -5px;
+}
